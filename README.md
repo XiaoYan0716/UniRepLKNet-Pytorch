@@ -2,6 +2,9 @@
 This is a warehouse for UniRepLKNet-pytorch-model, can be used to train your image-datasets for classification tasks.
 The code mainly comes from official [source code](https://github.com/AILab-CVC/UniRepLKNet)
 
+## Download pre-trained weights
+[pre-trained weights](https://github.com/AILab-CVC/UniRepLKNet?tab=readme-ov-file#imagenet-1k-pretrained-weights)
+
 ## Project Structure
 ```
 ├── datasets: Load datasets
